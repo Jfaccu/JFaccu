@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-<center><div><img alt="Hi" src="https://i.ibb.co/1TqTtcd/lovedata.png"></div></center> 
+<center><div><img aling="Hi" src="https://i.ibb.co/1TqTtcd/lovedata.png" alt="Imagen" height="200" width="200" /></a>
 
 - 🔭 I’m currently working on my personal projects implementing my skills for recruiters to observe.
 - 🌱 I’m currently honing my ETL Process skills with Power Query and SSIS, data visualization with Power BI, and business analytics, statistics, metrics, DAX, and SQL.
