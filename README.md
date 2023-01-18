@@ -1,6 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Facundo</h1>
 
-Here are some ideas to get you started:
+
 
 <center><div><img aling="Hi" src="https://i.ibb.co/1TqTtcd/lovedata.png" alt="Imagen" height="150" width="300" /></a>
 
