@@ -11,7 +11,7 @@
 - 📫 How to reach me: **Facundoespinolaab@gmail.com**
 - 📄 Know about my experiences in [my CV:)](https://drive.google.com/drive/u/0/my-drive)
 - ⚡ Fun fact: **When I was in high school, I thought computers were the worst and wanted to get away from it. Today is what I like**
--->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/facundo-espinola/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundoespinola" height="30" width="40" /></a>
