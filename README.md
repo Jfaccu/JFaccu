@@ -2,7 +2,7 @@
 
 
 
-<center><div><img aling="Hi"  src="https://i.ibb.co/1TqTtcd/lovedata.png" align="center" alt="Imagen" height="150" width="300" /></a>
+<center><div><img aling="Center"  src="https://i.ibb.co/1TqTtcd/lovedata.png"  alt="Imagen" height="150" width="300" /></a>
 
 - 🔭 I’m currently working on my personal projects implementing my skills for recruiters to observe.
 - 🌱 I’m currently honing my ETL Process skills with Power Query and SSIS, data visualization with Power BI, and business analytics, statistics, metrics, DAX, and SQL.
