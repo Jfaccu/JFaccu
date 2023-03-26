@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Facundo</h1>
+<h1 align="center"
 
 <div id="Head" aling="Center" 
-     ![giphy](https://user-images.githubusercontent.com/105472893/227786828-7fa81524-0052-4c84-b26c-baff96b19fcd.gif)
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzQ3Y2Y2NzQ1YmM1MDI0NjBjNzk5YmFmY2FjMGI5ODQyYzEwMDg5NCZjdD1n/xT9C25UNTwfZuk85WP/giphy.gif" width="200"/>
+ <h1 aling="center">Hi 👋, I'm Facundo</h1>
 </div>
 
 
