@@ -4,6 +4,13 @@
     <h3 align="center">(DESCRIPCION A CAMBIAR) Gran pasión por los datos y su uso para contar historias y hacer predicciones mediante la creación de paneles y la realización de análisis de datos.</h3>
 </div>
 
+<div   
+     </a>
+    <a href="https://twitter.com/jfaccu" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
+            alt="Twitter Badge" />
+     
+</div>
 
 
 
