@@ -1,9 +1,8 @@
+<h1 align="center">Hi 👋, I'm Facundo</h1>
+
 <div id="Head" aling="Center" 
      ![giphy](https://user-images.githubusercontent.com/105472893/227786828-7fa81524-0052-4c84-b26c-baff96b19fcd.gif)
 </div>
-
-<h1 align="center">Hi 👋, I'm Facundo</h1>
-
 
 
 - 🔭 I’m currently working on my personal projects implementing my skills for recruiters to observe.
