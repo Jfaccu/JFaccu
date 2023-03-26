@@ -1,4 +1,4 @@
-<div id="Header" aling="Center" 
+<div id="Header" aling="Center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzQ3Y2Y2NzQ1YmM1MDI0NjBjNzk5YmFmY2FjMGI5ODQyYzEwMDg5NCZjdD1n/xT9C25UNTwfZuk85WP/giphy.gif" width="200"/>
   <h1 aling="center">Hi 👋, I'm Facundo</h1>
 </div>
