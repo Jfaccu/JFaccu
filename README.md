@@ -42,8 +42,15 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-
+<div align="left">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://powerbi.microsoft.com/es-es/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/> 
   
+---
+    
+ ## My Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jfaccu&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+    
