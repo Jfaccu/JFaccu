@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
+<div id="Head" aling="Center" 
+     <img src "https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP" width ="200" />
+</div>
 
 
 
-<center><div><img aling="Center"  src="https://i.ibb.co/1TqTtcd/lovedata.png"  alt="Imagen" height="150" width="300" /></a>
 
 - 🔭 I’m currently working on my personal projects implementing my skills for recruiters to observe.
 - 🌱 I’m currently honing my ETL Process skills with Power Query and SSIS, data visualization with Power BI, and business analytics, statistics, metrics, DAX, and SQL.
