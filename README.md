@@ -4,7 +4,7 @@
     <h3 align="center">(DESCRIPCION A CAMBIAR) Gran pasión por los datos y su uso para contar historias y hacer predicciones mediante la creación de paneles y la realización de análisis de datos.</h3>
 </div>
 
-<div   
+<div   id="badges" align="center">
      </a>
     <a href="https://twitter.com/jfaccu" target="_blank">
         <img src="https://img.shields.io/twitter/url?color=blue&label=%40JFaccu&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fjfaccu"
