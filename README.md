@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Facundo</h1>
-    <h3 align="center">(DESCRIPCION A CAMBIAR) Gran pasión por los datos y su uso para contar historias y hacer predicciones mediante la creación de paneles y la realización de análisis de datos.</h3>
+    <h3 align="center"> Gran pasión por los datos y su uso para contar historias y hacer predicciones mediante la creación de paneles y la realización de análisis de datos.</h3>
 </div>
 
 <div   id="badges" align="center">
