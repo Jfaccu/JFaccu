@@ -1,8 +1,9 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
+    <img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzQ3Y2Y2NzQ1YmM1MDI0NjBjNzk5YmFmY2FjMGI5ODQyYzEwMDg5NCZjdD1n/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif)" width="200" />
     <h1 align="center">Hi 👋, I'm Facundo</h1>
     <h3 align="center">(DESCRIPCION A CAMBIAR) Gran pasión por los datos y su uso para contar historias y hacer predicciones mediante la creación de paneles y la realización de análisis de datos.</h3>
 </div>
+
 
 - 🔭 I’m currently working on my personal projects implementing my skills for recruiters to observe.
 - 🌱 I’m currently honing my ETL Process skills with Power Query and SSIS, data visualization with Power BI, and business analytics, statistics, metrics, DAX, and SQL.
