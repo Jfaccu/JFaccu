@@ -12,18 +12,24 @@
      
 </div>
 
---
+---
 
-## Abaout me
+## 👨‍💻 About Me:
 
 
 
 - 🔭 I’m currently working on my personal projects implementing my skills for recruiters to observe.
+
 - 🌱 I’m currently honing my ETL Process skills with Power Query and SSIS, data visualization with Power BI, and business analytics, statistics, metrics, DAX, and SQL.
+
 - 🤔 I’m looking for help to join a work team.
+
 - 💬 Ask me about the content of my personal projects and what business objectives they meet.
+
 - 📫 How to reach me: **Facundoespinolaab@gmail.com**
+
 - 📄 Know about my experiences in [my CV:)](https://drive.google.com/file/d/1PMNDSFzoAfDTDF8GL6sru6wetw4LMTsf/view?usp=share_link)
+
 - ⚡ Fun fact: **When I was in high school, I thought computers were the worst and wanted to get away from it. Today is what I like**
 
 <h3 align="left">Connect with me:</h3>
