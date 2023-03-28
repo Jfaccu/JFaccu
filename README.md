@@ -28,7 +28,7 @@
 
 - 📫 How to reach me: **Facundoespinolaab@gmail.com**
 
-- 📄 Know about my experiences in [my CV:)](https://drive.google.com/file/d/1PMNDSFzoAfDTDF8GL6sru6wetw4LMTsf/view?usp=share_link)
+- 📄 Know about my experiences in [my CV:)](https://drive.google.com/file/d/1W6HlcRgWBNgHm_nwzpphOMIXevMVanjF/view?usp=share_link)
 
 - ⚡ Fun fact: **When I was in high school, I thought computers were the worst and wanted to get away from it. Today is what I like**
 
