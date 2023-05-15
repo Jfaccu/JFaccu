@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Facundo</h1>
-    <h3 align="center"> Gran pasión por los datos y su uso para contar historias y hacer predicciones mediante la creación de paneles y la realización de análisis de datos.</h3>
+    <h3 align="center"> Poseo una gran pasión por los datos y su potencial para contar historias y realizar predicciones precisas. Mi enfoque se centra en la creación de paneles intuitivos y el análisis de datos meticuloso para descubrir tendencias y patrones que ayuden a tomar decisiones informadas. Me encanta explorar datos de diversas fuentes y transformarlos en información útil para maximizar el valor que aportan a los proyectos en los que participo. </h3>
 </div>
 
 <div   id="badges" align="center">
